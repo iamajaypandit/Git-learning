@@ -69,6 +69,15 @@
 // git bracnch switch <branchname> //switch to branch
 // git branch -d <branchname> //delete branch
 
+// Forking
+// Forking is the process of creating a personal copy of another user's repository in your own GitHub account. 
+// It allows you to make changes independently without affecting the original repository.
+//What is Scratch?
+// Definition (English):
+// From scratch means creating or building something from the beginning,
+//  without using an existing ready-made project as your starting point.
+
+// Hinglish: Matlab ekdum zero se khud project banana, kisi existing project ko fork ya clone kiye bina.
 // function printHollowRhombus(n) {
 //   for (let i = 1; i <= n; i++) {
 //     let row = "";
